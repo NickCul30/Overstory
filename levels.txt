@@ -1,0 +1,16 @@
+start,startMask,1,-213,4,0,3,255,1,Splendid! Now go out there and find your way back home,1,0,255
+ruins1,ruins1Mask,2,-29,550,0,2,255,-29,-88,0,6,255,0
+ruins2,ruins2Mask,2,-110,113,0,4,255,1410,-107,0,10,255,3,Warning: /n Shia LaBeouf sightings. /p Yes you read that right.,1,0,255,Please don't punch me. /p ... /p Seriously stop it hurts /p ... /p I may be a dummy but that doesn't just give you free reign to take shots at me. /p Man. people have no respect these days.,2,0,255,* (The switch wont budge),3,0,255
+ruins3,ruins3Mask,2,-90,90,0,5,255,1000,13,0,9,255,1,* Don't read this /p * (You hear the sign relase an audible sigh),1,0,255
+ruins4,ruins4Mask,3,-170,-30,0,8,255,2780,-60,0,13,255,2980,460,0,14,255,1,Hey man how's it going?,1,0,255
+ruins5,ruins5Mask,1,-192,70,0,11,255,1,* (You see something on the podium) /p * (You pick it up) /p * (Upon examination it looks to be a priceless artifact kept in perfect condition for thousands of years) /p * (Whoops. You dropped it and it fell out of existance.),1,0,255
+ruins6,ruins6Mask,2,-240,-20,0,12,255,85,-90,0,16,255,1,I want pictures. /p Pictures of Spiderman!,1,0,255
+ruins7,ruins7Mask,2,-200,110,0,15,255,630,-10,0,20,255,1,       .---;-. /n    __/_.{)|__;._ /n ."` _     :  _  `. /n '--(_)------(_)--',1,0,255
+ruins8,ruins8Mask,3,-250,300,0,17,255,1170,200,0,1,255,260,-90,0,21,255,1,Hungry for Apples?,1,0,255
+ruins9,ruins9Mask,2,-20,540,0,18,255,-20,-40,0,25,255,0
+balcony,balconyMask,1,-40,50,0,0,255,0
+Snowdin1,Snowdin1Mask,2,-168,12,0,22,255,912,48,0,27,255,0
+Snowdin2,Snowdin2Mask,3,-140,44,0,26,255,2312,24,0,30,255,2896,-116,0,32,255,6,You knock on the door... /p No one seems to be home.,1,0,255,It's an empty box.,2,0,255,You trying to steal something PUNK!?,3,0,255,Hey there!,4,0,255,Hey! Welcome back man! /p What do you not remember me? It's ya boi Monster Kid.,5,0,255,You see an empty mailbox and an overflowing one.,6,0,255
+grillby,grillbyMask,1,-14,114,0,29,255,0
+Snowdin3,Snowdin3Mask,2,88,68,0,28,255,108,-192,0,35,255,0
+Snowdin4,Snowdin4Mask,1,-64,16,0,33,255,1,The waters are calm today.,1,0,255

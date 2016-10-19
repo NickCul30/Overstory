@@ -1,0 +1,16 @@
+1,Baseball Bat,707,74
+0
+1,Brass Knuckles,690,93
+0
+1,Dagger,2676,456
+0
+0
+0
+1,Trident,250,80
+0
+1,Samurai Sword,-260,40
+0
+0
+0
+0
+0

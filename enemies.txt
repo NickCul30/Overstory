@@ -1,0 +1,6 @@
+Toriel,Toriel.png,1,1,1,3,Take a swing at me! Don't worry I can tough it out.
+Shia,Shia.png,3,20,20,15,Don't let your dreams be dreams!,Yesterday you said tomorrow... so just DO IT!,You're gonna get to the point where anybody else will quit and you're not gonna stop there!
+Fox,Fox.png,5,30,30,20,*You feel as if you are about to get 5-0'd,The only viable character in Super Smash Bros. Melee has arrived,*You tear up at the sight of this character's shines
+Dog,Dog.png,2,15,15,10,Meow..... I mean Woof,How would you like it if others kept you as a pet?,This axe may or may not be made of plastic
+Froggit,Froggit.png,2,12,12,8,Why do people keep calling me DAT Boi?,Who are you to decide whether I live or die?,Contrary to my looks /p I am quite the philosophical individual.
+Loox,Loox.png,3,18,18,12,Why did the Cyclops give up teaching? /p Because he only had one pupil,What do you call a one eyed monster who rides a motorbike? /p Cycle-ops,Something Something.... /p depth perception joke

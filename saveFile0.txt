@@ -1,0 +1,1 @@
+,20,20,Stick,sans,0,false,

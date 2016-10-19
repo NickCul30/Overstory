@@ -1,0 +1,7 @@
+Ripe Apple,apple,5,0,255,1
+Plate of Bacon,bacon,8,0,255,2
+Chicken Leg,chicken,10,0,255,3
+Donut,donut,4,0,255,4
+Lemonade,lemonade,4,0,255,5
+Painkillers,medicine,20,0,255,6
+Chicken Soup,soup,10,0,255,7
